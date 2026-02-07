@@ -1,0 +1,11 @@
+# SAM build artifacts
+.aws-sam/
+samconfig.toml
+
+# Node
+node_modules/
+npm-debug.log*
+.DS_Store
+
+# Local env files
+.env
